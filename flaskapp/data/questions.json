@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "text": "Who possesses the ring of power at the start of the trilogy?",
+    "options": {"a": "Gandalf", "b": "Bilbo", "c": "Frodo", "d": "Sauron"},
+    "answer": "b",
+    "score": 100
+  },
+  {
+    "id": 2,
+    "text": "Who do the hobbits encounter at the Prancing Pony?",
+    "options": {"a": "Gandalf", "b": "Legolas", "c": "Strider", "d": "Boromir"},
+    "answer": "c",
+    "score": 100
+  },
+  {
+    "id": 3,
+    "text": "How many members make up the fellowship of the ring?",
+    "options": {"a": "Seven", "b": "Eight", "c": "Nine", "d": "Ten"},
+    "answer": "c",
+    "score": 100
+  },
+  {
+    "id": 4,
+    "text": "What is the name of the elf in the fellowship?",
+    "options": {"a": "Gimli", "b": "Legolas", "c": "Merry", "d": "Boromir"},
+    "answer": "b",
+    "score": 75
+  },
+  {
+    "id": 5,
+    "text": "What is the name of the dwarf in the fellowship?",
+    "options": {"a": "Gimli", "b": "Legolas", "c": "Merry", "d": "Boromir"},
+    "answer": "a",
+    "score": 75
+  },
+  {
+    "id": 6,
+    "text": "When the pass of Caradhras is blocked, where does Frodo say the fellowship should go?",
+    "options": {"a": "Rivendell", "b": "Lothlorien", "c": "Moria", "d": "Minas Tirith"},
+    "answer": "c",
+    "score": 75
+  },
+  {
+    "id": 7,
+    "text": "Who is the first member of the fellowship to be separated from the group?",
+    "options": {"a": "Gandalf", "b": "Legolas", "c": "Boromir", "d": "Aragorn"},
+    "answer": "a",
+    "score": 75
+  },
+  {
+    "id": 8,
+    "text": "What happens at the end of the first movie?",
+    "options": {"a": "Merry and Pippin are carried off by orcs and Uruk-hai", "b": "Boromir is killed", "c": "Frodo and Sam leave the others behind", "d": "All of the above"},
+    "answer": "d",
+    "score": 40
+  },
+  {
+    "id": 9,
+    "text": "Who has been following Sam and Frodo?",
+    "options": {"a": "Gollum", "b": "Sméagol", "c": "A and B", "d": "None of the above"},
+    "answer": "a",
+    "score": 40
+  },
+  {
+    "id": 10,
+    "text": "Who is the king of Rohan?",
+    "options": {"a": "Théoden", "b": "Wormtongue", "c": "Éowyn", "d": "Éomer"},
+    "answer": "a",
+    "score": 40
+  },
+  {
+    "id": 11,
+    "text": "Where is Saruman’s tower, Orthanc, located?",
+    "options": {"a": "Minas Tirith", "b": "Rivendell", "c": "Helm’s Deep", "d": "Isengard"},
+    "answer": "d",
+    "score": 40
+  },
+  {
+    "id": 12,
+    "text": "What animal does Gollum give to Frodo?",
+    "options": {"a": "A ferret", "b": "A rabbit", "c": "A mouse", "d": "A fish"},
+    "answer": "b",
+    "score": 40
+  },
+  {
+    "id": 13,
+    "text": "Where does Théoden decide to send his people?",
+    "options": {"a": "Minas Tirith", "b": "Rivendell", "c": "Helm’s Deep", "d": "Isengard"},
+    "answer": "c",
+    "score": 25
+  },
+  {
+    "id": 14,
+    "text": "What forest creatures do Pippin and Merry come across?",
+    "options": {"a": "Orcs", "b": "Uruk-hai", "c": "Rabbits", "d": "Ents"},
+    "answer": "d",
+    "score": 25
+  },
+  {
+    "id": 15,
+    "text": "Whom does Aragorn love?",
+    "options": {"a": "Éowyn", "b": "Arwen", "c": "Galadriel", "d": "None of the above"},
+    "answer": "b",
+    "score": 25
+  },
+  {
+    "id": 16,
+    "text": "Who shows up to help defend Helm’s Deep at the last moment?",
+    "options": {"a": "The Ents", "b": "An elf army", "c": "The riders of Rohan, led by Éomer", "d": "All of the above"},
+    "answer": "d",
+    "score": 25
+  },
+  {
+    "id": 17,
+    "text": "Who is the steward of Gondor?",
+    "options": {"a": "Denethor", "b": "Boromir", "c": "Aragorn", "d": "Faramir"},
+    "answer": "a",
+    "score": 25
+  },
+  {
+    "id": 18,
+    "text": "What is the name of the capital of Gondor?",
+    "options": {"a": "Osgiliath", "b": "Helm’s Deep", "c": "Minas Tirith", "d": "Cirith Ungol"},
+    "answer": "c",
+    "score": 25
+  },
+  {
+    "id": 19,
+    "text": "To whom does Pippin pledge allegiance?",
+    "options": {"a": "Denethor", "b": "Faramir", "c": "Aragorn", "d": "Gandalf"},
+    "answer": "a",
+    "score": 25
+  },
+  {
+    "id": 20,
+    "text": "What are Sam and Frodo running out of as they journey to Mount Doom?",
+    "options": {"a": "Water", "b": "Strength", "c": "Food", "d": "All of the above"},
+    "answer": "d",
+    "score": 25
+  }
+]
