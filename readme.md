@@ -1,9 +1,6 @@
 
 # Multiple Choice Quiz App
 
-## Brief Description
-Brief description of what your project does and its features.
-
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
@@ -12,7 +9,6 @@ What things you need to install the software and how to install them:
 - Python 3
 - pip
 - virtualenv
-- Node.js
 - npm
 
 ### Installing and Running the Backend
